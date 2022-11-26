@@ -1,0 +1,15 @@
+C:\Users\нурик\Desktop\HomeWorksN7\Double_Numbers\obj\Debug\net6.0\Double_Numbers.csproj.AssemblyReference.cache
+C:\Users\нурик\Desktop\HomeWorksN7\Double_Numbers\obj\Debug\net6.0\Double_Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\нурик\Desktop\HomeWorksN7\Double_Numbers\obj\Debug\net6.0\Double_Numbers.AssemblyInfoInputs.cache
+C:\Users\нурик\Desktop\HomeWorksN7\Double_Numbers\obj\Debug\net6.0\Double_Numbers.AssemblyInfo.cs
+C:\Users\нурик\Desktop\HomeWorksN7\Double_Numbers\obj\Debug\net6.0\Double_Numbers.csproj.CoreCompileInputs.cache
+C:\Users\нурик\Desktop\HomeWorksN7\Double_Numbers\bin\Debug\net6.0\Double_Numbers.exe
+C:\Users\нурик\Desktop\HomeWorksN7\Double_Numbers\bin\Debug\net6.0\Double_Numbers.deps.json
+C:\Users\нурик\Desktop\HomeWorksN7\Double_Numbers\bin\Debug\net6.0\Double_Numbers.runtimeconfig.json
+C:\Users\нурик\Desktop\HomeWorksN7\Double_Numbers\bin\Debug\net6.0\Double_Numbers.dll
+C:\Users\нурик\Desktop\HomeWorksN7\Double_Numbers\bin\Debug\net6.0\Double_Numbers.pdb
+C:\Users\нурик\Desktop\HomeWorksN7\Double_Numbers\obj\Debug\net6.0\Double_Numbers.dll
+C:\Users\нурик\Desktop\HomeWorksN7\Double_Numbers\obj\Debug\net6.0\refint\Double_Numbers.dll
+C:\Users\нурик\Desktop\HomeWorksN7\Double_Numbers\obj\Debug\net6.0\Double_Numbers.pdb
+C:\Users\нурик\Desktop\HomeWorksN7\Double_Numbers\obj\Debug\net6.0\Double_Numbers.genruntimeconfig.cache
+C:\Users\нурик\Desktop\HomeWorksN7\Double_Numbers\obj\Debug\net6.0\ref\Double_Numbers.dll
