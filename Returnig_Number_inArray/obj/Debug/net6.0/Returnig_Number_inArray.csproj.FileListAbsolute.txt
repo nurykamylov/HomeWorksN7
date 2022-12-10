@@ -1,0 +1,15 @@
+C:\Users\нурик\Desktop\HomeWorksN7\Returnig_Number_inArray\obj\Debug\net6.0\Returnig_Number_inArray.csproj.AssemblyReference.cache
+C:\Users\нурик\Desktop\HomeWorksN7\Returnig_Number_inArray\obj\Debug\net6.0\Returnig_Number_inArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\нурик\Desktop\HomeWorksN7\Returnig_Number_inArray\obj\Debug\net6.0\Returnig_Number_inArray.AssemblyInfoInputs.cache
+C:\Users\нурик\Desktop\HomeWorksN7\Returnig_Number_inArray\obj\Debug\net6.0\Returnig_Number_inArray.AssemblyInfo.cs
+C:\Users\нурик\Desktop\HomeWorksN7\Returnig_Number_inArray\obj\Debug\net6.0\Returnig_Number_inArray.csproj.CoreCompileInputs.cache
+C:\Users\нурик\Desktop\HomeWorksN7\Returnig_Number_inArray\bin\Debug\net6.0\Returnig_Number_inArray.exe
+C:\Users\нурик\Desktop\HomeWorksN7\Returnig_Number_inArray\bin\Debug\net6.0\Returnig_Number_inArray.deps.json
+C:\Users\нурик\Desktop\HomeWorksN7\Returnig_Number_inArray\bin\Debug\net6.0\Returnig_Number_inArray.runtimeconfig.json
+C:\Users\нурик\Desktop\HomeWorksN7\Returnig_Number_inArray\bin\Debug\net6.0\Returnig_Number_inArray.dll
+C:\Users\нурик\Desktop\HomeWorksN7\Returnig_Number_inArray\bin\Debug\net6.0\Returnig_Number_inArray.pdb
+C:\Users\нурик\Desktop\HomeWorksN7\Returnig_Number_inArray\obj\Debug\net6.0\Returnig_Number_inArray.dll
+C:\Users\нурик\Desktop\HomeWorksN7\Returnig_Number_inArray\obj\Debug\net6.0\refint\Returnig_Number_inArray.dll
+C:\Users\нурик\Desktop\HomeWorksN7\Returnig_Number_inArray\obj\Debug\net6.0\Returnig_Number_inArray.pdb
+C:\Users\нурик\Desktop\HomeWorksN7\Returnig_Number_inArray\obj\Debug\net6.0\Returnig_Number_inArray.genruntimeconfig.cache
+C:\Users\нурик\Desktop\HomeWorksN7\Returnig_Number_inArray\obj\Debug\net6.0\ref\Returnig_Number_inArray.dll
